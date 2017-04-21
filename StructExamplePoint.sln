@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructExamplePoint", "StructExamplePoint\StructExamplePoint.csproj", "{2B353E4B-7CB1-4D87-B790-9ED81D20BDFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExample", "EnumExample\EnumExample.csproj", "{E75099B5-4110-4C99-AE2A-54E2CF702B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{D1BBF41E-485C-4DF8-B4D4-CE4C6A2D7EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B353E4B-7CB1-4D87-B790-9ED81D20BDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B353E4B-7CB1-4D87-B790-9ED81D20BDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B353E4B-7CB1-4D87-B790-9ED81D20BDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B353E4B-7CB1-4D87-B790-9ED81D20BDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75099B5-4110-4C99-AE2A-54E2CF702B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75099B5-4110-4C99-AE2A-54E2CF702B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75099B5-4110-4C99-AE2A-54E2CF702B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75099B5-4110-4C99-AE2A-54E2CF702B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BBF41E-485C-4DF8-B4D4-CE4C6A2D7EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BBF41E-485C-4DF8-B4D4-CE4C6A2D7EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BBF41E-485C-4DF8-B4D4-CE4C6A2D7EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BBF41E-485C-4DF8-B4D4-CE4C6A2D7EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
